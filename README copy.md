@@ -1,6 +1,3 @@
-# docker-aws
-udacity-docker-aws
----
 # Data Engineering API Example
 
 An example project that shows how to create a Data Engineering API around Flask and Pandas:
@@ -313,3 +310,18 @@ test-circleci:
 The URL for the project build is here:  https://circleci.com/gh/noahgift/pai-aws.  To see artificats pylint output and/or test coverage output, you can go to the artificats directory here (for build 24):  
 
 https://circleci.com/gh/noahgift/pai-aws/24#artifacts/containers/0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
